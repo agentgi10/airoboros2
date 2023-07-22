@@ -1,0 +1,3 @@
+As an AI text-based model, I'm unable to generate binary files such as "chromedriver.exe". This file is not a code file but an executable file that is used by Selenium to interact with the Chrome browser. You can download the appropriate version of Chromedriver based on your Chrome browser version from the official Chromedriver download page: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+After downloading, you can place the "chromedriver.exe" file in the "web_scraper" directory. Please ensure that the path to "chromedriver.exe" is correctly referenced in your Python scripts.
